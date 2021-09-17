@@ -1,2 +1,2 @@
 # ChatApp
-Chat application using react and node.
+Chat application backend using node (express + socket.io).
